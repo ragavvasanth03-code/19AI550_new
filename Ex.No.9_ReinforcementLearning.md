@@ -160,6 +160,8 @@ behaviors:
 ```
 ### Output:
 <img width="1265" height="677" alt="WhatsApp Image 2026-08-31 at 1 55 29 PM" src="https://github.com/user-attachments/assets/448c9ebd-178c-4822-990d-31b4d26c17ed" />
+<img width="1265" height="108" alt="image" src="https://github.com/user-attachments/assets/75425903-91a7-418a-b56e-eff7af1d26f7" />
+
 
 
 
