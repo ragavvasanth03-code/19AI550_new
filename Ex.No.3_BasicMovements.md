@@ -42,7 +42,7 @@ public class TransformOperations : MonoBehaviour
         if (object2 != null)
         {
             //object2.Rotate(Vector3.up * rotateSpeed * Time.deltaTime);
-            //object2.Rotate(0,0.02f.0);
+               object2.Rotate(0,0.02f.0);
         }
 
         // Scale object3 up and down
